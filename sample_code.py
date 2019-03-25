@@ -12,7 +12,7 @@ def index():
 	return '''
 <html>
     <head>
-        <title>Home Page - Microblog</title>
+        <title>Web Application and Web Services</title>
     </head>
     <body>
     	<h1> Sample get reqeust. Return the sensors whose type is weight</h1>
@@ -29,7 +29,7 @@ def add_sensor():
 	return '''
 <html>
     <head>
-        <title>Home Page - Microblog</title>
+        <title>Web Application and Web Services</title>
     </head>
     <body>
         <h1> Add a new sensor. The sensor id is 54, type is Weight Scales, name is Bathroom Scales, subject id is 3</h1>
