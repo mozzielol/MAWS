@@ -6,5 +6,5 @@ Sample code for Mobile Applications and Web Services. Written in Python.
 4. Open a browser, visit localhost:5000
 
 Dependencies: python, Flask. 
-You can install python via this [tutorial](https://realpython.com/installing-python/)
-You can install Flask in terminal by command `pip install flask`.
+1. You can install python via this [tutorial](https://realpython.com/installing-python/)
+2. You can install Flask in terminal by command `pip install flask`.
